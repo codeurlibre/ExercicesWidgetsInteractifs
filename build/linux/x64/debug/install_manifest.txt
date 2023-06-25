@@ -1,0 +1,11 @@
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/exercice_interactifs
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/hugues/StudioProjects/exercice_interactifs/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
